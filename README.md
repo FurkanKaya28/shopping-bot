@@ -10,12 +10,19 @@
 
 
 İstenilen ürünü 4 e-ticaret sayfasında arayarak en ucuzunu getiren bot yapılmıştır.
+<br><br>
+[<img align="left" alt="n11" width="56px" src="https://www.cepde.net/sabit/icerik/resimler/2018/n11_com.png" />][n11]
+[<img align="left" alt="Selenium" width="56px" src="https://www.aforsoft.com/Content/UpFiles/202103261457145380_z_Ai2_Io_400x400.jpg" />][trendyol]
+[<img align="left" alt="Selenium" width="56px" src="https://www.mobil13.com/wp-content/uploads/2020/12/hepsiburada.png" />][hepsiburada]
+[<img align="left" alt="Selenium" width="56px" src="https://www.sentos.com.tr/wp-content/uploads/2018/01/gittigidiyor-icon.png" />][gittigidiyor]
+<br><br>
 
 Ürün aranan siteler;
-* n11
-* trendyol
-* hepsiburada
-* gittigidiyor
+
+* [n11](https://www.n11.com/)
+* [trendyol](https://www.trendyol.com/)
+* [hepsiburada](https://www.hepsiburada.com/)
+* [gittigidiyor](https://www.gittigidiyor.com/)
 
 
 
@@ -24,3 +31,7 @@
 
 [python]: https://www.python.org/
 [selenium]: https://www.selenium.dev/
+[n11]: https://www.n11.com/
+[trendyol]: https://www.trendyol.com/
+[hepsiburada]: https://www.hepsiburada.com/
+[gittigidiyor]: https://www.gittigidiyor.com/
