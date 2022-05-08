@@ -45,7 +45,8 @@ class ShoppingBot(object):
         options.add_argument("--window-size=1920x1080")
 
         self.__driver = webdriver.Chrome(options=options)
-        self.__driver.implicitly_wait(10)
+        # headless modda çalışırken wait kullanmaya gerek yok. 
+        # self.__driver.implicitly_wait(10)
         self.__driver.get(url)
 
     def __quit(self):
